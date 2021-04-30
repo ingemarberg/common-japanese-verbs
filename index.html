@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>Common Japanese Verbs</title>
+<link rel="stylesheet" type="text/css" href="DataTables-1.10.24/css/jquery.dataTables.min.css"/>
+<link rel="stylesheet" type="text/css" href="FixedHeader-3.1.8/css/fixedHeader.dataTables.min.css"/>
+<link rel="stylesheet" type="text/css" href="Responsive-2.2.7/css/responsive.dataTables.min.css"/>
+<script src="jQuery-3.3.1/jquery-3.3.1.min.js"></script>
+<script src="DataTables-1.10.24/js/jquery.dataTables.min.js"></script>
+<script src="FixedHeader-3.1.8/js/dataTables.fixedHeader.min.js"></script>
+<script src="Responsive-2.2.7/js/dataTables.responsive.min.js"></script>
+<script class="init">
+$(document).ready(function() {
+    var table = $('#verbs').DataTable( {
+        "ajax": 'verbs.txt',
+        responsive: true
+        } );
+
+    new $.fn.dataTable.FixedHeader( table );
+} );
+</script>
+</head>
+<body>
+<table id="verbs" class="row-border responsive nowrap" style="width:100%">
+    <thead>
+        <tr>
+            <th class="all">Verb</th>
+            <th class="all">Verb (Kanji)</th>
+            <th class="all">Meaning</th>
+            <th class="min-desktop">Verb Class</th>
+            <th class="min-desktop">Transitivity</th>
+            <th class="min-desktop">Commonly Used Particles</th>
+            <th class="min-desktop">Introduced in Chapter</th>
+            <th class="all">Jisho</th>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <th>Verb</th>
+            <th>Verb (Kanji)</th>
+            <th>Meaning</th>
+            <th>Verb Class</th>
+            <th>Transitivity</th>
+            <th>Commonly Used Particles</th>
+            <th>Introduced in Chapter</th>
+            <th>Jisho</th>
+        </tr>
+    </tfoot>
+</table>
+</body>
+</html>
