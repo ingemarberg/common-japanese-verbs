@@ -261,6 +261,256 @@
             "<a href='https://jisho.org/word/%E5%87%BA%E6%8E%9B%E3%81%91%E3%82%8B'>Jisho</a>"
         ],
         [
+            "あそぶ",
+            "遊ぶ",
+            "to play; to spend time pleasantly",
+            "U-verb",
+            "intransitive",
+            "",
+            "Chapter 6 (p. 148)",
+            "<a href='https://jisho.org/word/%E9%81%8A%E3%81%B6'>Jisho</a>"
+        ],
+        [
+            "いそぐ",
+            "急ぐ",
+            "to hurry",
+            "U-verb",
+            "",
+            "",
+            "Chapter 6 (p. 148)",
+            "<a href='https://jisho.org/word/%E6%80%A5%E3%81%90'>Jisho</a>"
+        ],
+        [
+            "かえす",
+            "返す",
+            "to return (a thing)",
+            "U-verb",
+            "transitive",
+            "(person に thing を)",
+            "Chapter 6 (p. 148)",
+            "<a href='https://jisho.org/word/%E8%BF%94%E3%81%99'>Jisho</a>"
+        ],
+        [
+            "けす",
+            "消す",
+            "to turn off; to erase",
+            "U-verb",
+            "transitive",
+            "(~を)",
+            "Chapter 6 (p. 148)",
+            "<a href='https://jisho.org/word/%E6%B6%88%E3%81%99'>Jisho</a>"
+        ],
+        [
+            "しぬ",
+            "死ぬ",
+            "to die",
+            "U-verb",
+            "intransitive",
+            "",
+            "Chapter 6 (p. 148)",
+            "<a href='https://jisho.org/word/%E6%AD%BB%E3%81%AC'>Jisho</a>"
+        ],
+        [
+            "すわる",
+            "座る",
+            "to sit down",
+            "U-verb",
+            "intransitive",
+            "(seat に)",
+            "Chapter 6 (p. 148)",
+            "<a href='https://jisho.org/word/%E5%BA%A7%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "たつ",
+            "立つ",
+            "to stand up",
+            "U-verb",
+            "intransitive",
+            "",
+            "Chapter 6 (p. 148)",
+            "<a href='https://jisho.org/word/%E7%AB%8B%E3%81%A4'>Jisho</a>"
+        ],
+        [
+            "たばこをすう",
+            "たばこを吸う",
+            "to smoke",
+            "U-verb",
+            "",
+            "",
+            "Chapter 6 (p. 148)",
+            "<a href='https://jisho.org/word/%E5%90%B8%E3%81%86'>Jisho</a>"
+        ],
+        [
+            "つかう",
+            "使う",
+            "to use",
+            "U-verb",
+            "transitive",
+            "(~を)",
+            "Chapter 6 (p. 148)",
+            "<a href='https://jisho.org/word/%E4%BD%BF%E3%81%86'>Jisho</a>"
+        ],
+        [
+            "てつだう",
+            "手伝う",
+            "to help",
+            "U-verb",
+            "transitive",
+            "(person/task を)",
+            "Chapter 6 (p. 148)",
+            "<a href='https://jisho.org/word/%E6%89%8B%E4%BC%9D%E3%81%86'>Jisho</a>"
+        ],
+        [
+            "はいる",
+            "入る",
+            "to enter",
+            "U-verb",
+            "intransitive",
+            "(~に)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E5%85%A5%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "もつ",
+            "持つ",
+            "to carry; to hold",
+            "U-verb",
+            "transitive",
+            "(~を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E6%8C%81%E3%81%A4'>Jisho</a>"
+        ],
+        [
+            "やすむ",
+            "休む",
+            "to be absent (from ...)",
+            "U-verb",
+            "intransitive",
+            "(~を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E4%BC%91%E3%82%80'>Jisho</a>"
+        ],
+        [
+            "やすむ",
+            "休む",
+            "to rest",
+            "U-verb",
+            "intransitive",
+            "",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E4%BC%91%E3%82%80'>Jisho</a>"
+        ],
+        [
+            "あける",
+            "開ける",
+            "to open (something)",
+            "Ru-verb",
+            "transitive",
+            "(~を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E9%96%8B%E3%81%91%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "しめる",
+            "閉める",
+            "to close (something)",
+            "Ru-verb",
+            "transitive",
+            "(~を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E9%96%89%E3%82%81%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "おしえる",
+            "教える",
+            "to teach; to instruct",
+            "Ru-verb",
+            "transitive",
+            "(person に thing を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E6%95%99%E3%81%88%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "わすれる",
+            "忘れる",
+            "to forget; to leave behind",
+            "Ru-verb",
+            "transitive",
+            "(~を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E5%BF%98%E3%82%8C%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "おりる",
+            "降りる",
+            "to get off",
+            "Ru-verb",
+            "intransitive",
+            "(~を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E9%99%8D%E3%82%8A%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "かりる",
+            "借りる",
+            "to borrow",
+            "Ru-verb",
+            "transitive",
+            "(person に thing を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E5%80%9F%E3%82%8A%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "シャワーをあびる",
+            "シャワーを浴びる",
+            "to take a shower",
+            "Ru-verb",
+            "",
+            "",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E6%B5%B4%E3%81%B3%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "つける",
+            "付ける",
+            "to turn on",
+            "Ru-verb",
+            "transitive",
+            "(~を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E4%BB%98%E3%81%91%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "でんわをする",
+            "電話をする",
+            "to call",
+            "Irregular verb",
+            "",
+            "(~に)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E9%9B%BB%E8%A9%B1'>Jisho</a>"
+        ],
+        [
+            "つれてくる",
+            "連れてくる",
+            "to bring (a person)",
+            "Irregular verb",
+            "",
+            "(~を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E9%80%A3%E3%82%8C%E3%81%A6%E6%9D%A5%E3%82%8B'>Jisho</a>"
+        ],
+        [
+            "もってくる",
+            "持ってくる",
+            "to bring (a thing)",
+            "Irregular verb",
+            "",
+            "(~を)",
+            "Chapter 6 (p. 149)",
+            "<a href='https://jisho.org/word/%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B'>Jisho</a>"
+        ],
+        [
             "あむ",
             "編む",
             "to knit",
@@ -403,7 +653,7 @@
         [
             "プロポーズする",
             "",
-            "to proposage marriage",
+            "to propose marriage",
             "Irregular verb",
             "",
             "(person に)",
@@ -893,7 +1143,7 @@
         [
             "いれる",
             "淹れる",
-            "to make tea, coffe, etc.",
+            "to make tea, coffee, etc.",
             "Ru-verb",
             "transitive",
             "(~を)",
