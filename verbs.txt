@@ -1015,6 +1015,162 @@
       "jisho_link": "<a href='https://jisho.org/word/%E6%96%99%E7%90%86'>Jisho</a>"
     },
     {
+      "kana": "おどる",
+      "kanji": "踊る",
+      "meaning": "to dance",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E8%B8%8A%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "おわる",
+      "kanji": "終わる",
+      "meaning": "(something) ends",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(~が)",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%B5%82%E3%82%8F%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "くすりをのむ",
+      "kanji": "薬を飲む",
+      "meaning": "to take medicine",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%A3%B2%E3%82%80'>Jisho</a>"
+    },
+    {
+      "kana": "にんきがある",
+      "kanji": "人気がある",
+      "meaning": "to be popular",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E4%BA%BA%E6%B0%97%E3%81%8C%E3%81%82%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "はじまる",
+      "kanji": "始まる",
+      "meaning": "(something) begins",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(~が)",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%A7%8B%E3%81%BE%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "ひく",
+      "kanji": "弾く",
+      "meaning": "to play (a string instrument or piano)",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%BC%BE%E3%81%8F-1'>Jisho</a>"
+    },
+    {
+      "kana": "もらう",
+      "kanji": "貰う",
+      "meaning": "to get (from somebody)",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "(person に thing を)",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E8%B2%B0%E3%81%86'>Jisho</a>"
+    },
+    {
+      "kana": "おぼえる",
+      "kanji": "覚える",
+      "meaning": "to memorize",
+      "verb_class": "Ru-verb",
+      "transitivity": "transitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E8%A6%9A%E3%81%88%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "でる",
+      "kanji": "出る",
+      "meaning": "to appear; to attend",
+      "verb_class": "Ru-verb",
+      "transitivity": "intransitive",
+      "particles": "(~に)",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%87%BA%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "でる",
+      "kanji": "出る",
+      "meaning": "to exit",
+      "verb_class": "Ru-verb",
+      "transitivity": "intransitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%87%BA%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "うんどうする",
+      "kanji": "運動する",
+      "meaning": "to exercise",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%81%8B%E5%8B%95'>Jisho</a>"
+    },
+    {
+      "kana": "さんぽする",
+      "kanji": "散歩する",
+      "meaning": "to take a walk",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 9 (p. 213)",
+        "chapter": "9"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%95%A3%E6%AD%A9'>Jisho</a>"
+    },
+    {
       "kana": "あむ",
       "kanji": "編む",
       "meaning": "to knit",
