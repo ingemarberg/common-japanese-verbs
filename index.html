@@ -12,41 +12,59 @@
 <script src="Responsive-2.2.7/js/dataTables.responsive.min.js"></script>
 <script class="init">
 $(document).ready(function() {
-    var table = $('#verbs').DataTable( {
-        "ajax": 'verbs.txt',
-        responsive: true
-        } );
+  var table = $('#verbs').DataTable( {
+    "ajax": 'verbs.txt',
+    columns: [
+      { data: "kana" },
+      { data: "kanji" },
+      { data: "meaning" },
+      { data: "verb_class" },
+      { data: "transitivity" },
+      { data: "particles" },
+      { data: {
+        _:    "chapter.display",
+        sort: "chapter.chapter"
+      } },
+      { data: "jisho_link" }
+    ],
+    "columnDefs": [
+      { "type": "num", "targets": 6 }
+    ],
+    responsive: true
+  } );
 
-    new $.fn.dataTable.FixedHeader( table );
+  new $.fn.dataTable.FixedHeader( table );
 } );
 </script>
 </head>
+
 <body>
 <table id="verbs" class="row-border responsive nowrap" style="width:100%">
-    <thead>
-        <tr>
-            <th class="all">Verb</th>
-            <th class="all">Verb (Kanji)</th>
-            <th class="all">Meaning</th>
-            <th class="min-desktop">Verb Class</th>
-            <th class="min-desktop">Transitivity</th>
-            <th class="min-desktop">Commonly Used Particles</th>
-            <th class="min-desktop">Introduced in Chapter</th>
-            <th class="all">Jisho</th>
-        </tr>
-    </thead>
-    <tfoot>
-        <tr>
-            <th>Verb</th>
-            <th>Verb (Kanji)</th>
-            <th>Meaning</th>
-            <th>Verb Class</th>
-            <th>Transitivity</th>
-            <th>Commonly Used Particles</th>
-            <th>Introduced in Chapter</th>
-            <th>Jisho</th>
-        </tr>
-    </tfoot>
+  <thead>
+    <tr>
+      <th class="all">Verb</th>
+      <th class="all">Verb (Kanji)</th>
+      <th class="all">Meaning</th>
+      <th class="min-desktop">Verb Class</th>
+      <th class="min-desktop">Transitivity</th>
+      <th class="min-desktop">Commonly Used Particles</th>
+      <th class="min-desktop">Introduced in Chapter</th>
+      <th class="all">Jisho</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Verb</th>
+      <th>Verb (Kanji)</th>
+      <th>Meaning</th>
+      <th>Verb Class</th>
+      <th>Transitivity</th>
+      <th>Commonly Used Particles</th>
+      <th>Introduced in Chapter</th>
+      <th>Jisho</th>
+    </tr>
+  </tfoot>
 </table>
+
 </body>
 </html>
