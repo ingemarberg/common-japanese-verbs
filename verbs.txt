@@ -1171,6 +1171,292 @@
       "jisho_link": "<a href='https://jisho.org/word/%E6%95%A3%E6%AD%A9'>Jisho</a>"
     },
     {
+      "kana": "かかる",
+      "kanji": "掛かる",
+      "meaning": "to take (amount of time/money)",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(no particle)",
+      "chapter": {
+        "display": "Chapter 10 (p. 233)",
+        "chapter": "10"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%8E%9B%E3%81%8B%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "とまる",
+      "kanji": "止まる",
+      "meaning": "to stay (at a hotel, etc.)",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(~に)",
+      "chapter": {
+        "display": "Chapter 10 (p. 233)",
+        "chapter": "10"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%B3%8A%E3%81%BE%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "なる",
+      "kanji": "成る",
+      "meaning": "to become",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 10 (p. 233)",
+        "chapter": "10"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%88%90%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "きめる",
+      "kanji": "決める",
+      "meaning": "to decide",
+      "verb_class": "Ru-verb",
+      "transitivity": "transitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 10 (p. 233)",
+        "chapter": "10"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%B1%BA%E3%82%81%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "ゴロゴロする",
+      "kanji": "",
+      "meaning": "to chill out at home; to stay home and do nothing",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 10 (p. 233)",
+        "chapter": "10"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%82%B4%E3%83%AD%E3%82%B4%E3%83%AD'>Jisho</a>"
+    },
+    {
+      "kana": "りょこうする",
+      "kanji": "旅行する",
+      "meaning": "to travel",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 10 (p. 233)",
+        "chapter": "10"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%97%85%E8%A1%8C'>Jisho</a>"
+    },
+    {
+      "kana": "れんしゅうする",
+      "kanji": "練習する",
+      "meaning": "to practice",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 10 (p. 233)",
+        "chapter": "10"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%B7%B4%E7%BF%92'>Jisho</a>"
+    },
+    {
+      "kana": "うそをつく",
+      "kanji": "嘘を吐く",
+      "meaning": "to tell a lie",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 11 (p. 256)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%98%98%E3%82%92%E3%81%A4%E3%81%8F'>Jisho</a>"
+    },
+    {
+      "kana": "おなかがすく",
+      "kanji": "お腹が空く",
+      "meaning": "to become hungry",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 11 (p. 256)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%81%8A%E8%85%B9%E3%81%8C%E7%A9%BA%E3%81%8F'>Jisho</a>"
+    },
+    {
+      "kana": "かう",
+      "kanji": "飼う",
+      "meaning": "to own (a pet)",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 11 (p. 256)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%A3%BC%E3%81%86'>Jisho</a>"
+    },
+    {
+      "kana": "サボる",
+      "kanji": "",
+      "meaning": "to cut (classes)",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 11 (p. 256)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%82%B5%E3%83%9C%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "とる",
+      "kanji": "取る",
+      "meaning": "to take (a class); to get (a grade)",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 11 (p. 256)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%8F%96%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "ならう",
+      "kanji": "習う",
+      "meaning": "to learn",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 11 (p. 257)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%BF%92%E3%81%86'>Jisho</a>"
+    },
+    {
+      "kana": "のぼる",
+      "kanji": "登る",
+      "meaning": "to climb",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(place に)",
+      "chapter": {
+        "display": "Chapter 11 (p. 257)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E4%B8%8A%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "はしる",
+      "kanji": "走る",
+      "meaning": "to run",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 11 (p. 257)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E8%B5%B0%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "つかれる",
+      "kanji": "疲れる",
+      "meaning": "to get tired",
+      "verb_class": "Ru-verb",
+      "transitivity": "intransitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 11 (p. 257)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%96%B2%E3%82%8C%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "やめる",
+      "kanji": "辞める",
+      "meaning": "to quit",
+      "verb_class": "Ru-verb",
+      "transitivity": "transitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 11 (p. 257)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E8%BE%9E%E3%82%81%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "けんかする",
+      "kanji": "喧嘩する",
+      "meaning": "to have a fight; to quarrel",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 11 (p. 257)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%96%A7%E5%98%A9'>Jisho</a>"
+    },
+    {
+      "kana": "しょうかいする",
+      "kanji": "紹介する",
+      "meaning": "to introduce",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(person に person を)",
+      "chapter": {
+        "display": "Chapter 11 (p. 257)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%B4%B9%E4%BB%8B'>Jisho</a>"
+    },
+    {
+      "kana": "ダイエットする",
+      "kanji": "",
+      "meaning": "to go on a diet",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 11 (p. 257)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88'>Jisho</a>"
+    },
+    {
+      "kana": "ちこくする",
+      "kanji": "遅刻する",
+      "meaning": "to be late (for an appointment)",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(~に)",
+      "chapter": {
+        "display": "Chapter 11 (p. 257)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%81%85%E5%88%BB'>Jisho</a>"
+    },
+    {
+      "kana": "りゅうがくする",
+      "kanji": "留学する",
+      "meaning": "to study abroad",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(place に)",
+      "chapter": {
+        "display": "Chapter 11 (p. 257)",
+        "chapter": "11"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%95%99%E5%AD%A6'>Jisho</a>"
+    },
+    {
       "kana": "あむ",
       "kanji": "編む",
       "meaning": "to knit",
