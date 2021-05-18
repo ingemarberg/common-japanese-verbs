@@ -2807,6 +2807,591 @@
         "chapter": "18"
       },
       "jisho_link": "<a href='https://jisho.org/word/%E6%B3%A8%E6%96%87'>Jisho</a>"
+    },
+    {
+      "kana": "いらっしゃる",
+      "kanji": "",
+      "meaning": "honorific expression for いく, くる, and いる",
+      "verb_class": "aru special class",
+      "transitivity": "intransitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 162)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "めしあがる",
+      "kanji": "召し上がる",
+      "meaning": "honorific expression for たべる and のむ",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 162)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%8F%AC%E3%81%97%E4%B8%8A%E3%81%8C%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "くださる",
+      "kanji": "下さる",
+      "meaning": "honorific expression for くれる",
+      "verb_class": "aru special class",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 162)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E4%B8%8B%E3%81%95%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "なさる",
+      "kanji": "為さる",
+      "meaning": "honorific expression for する",
+      "verb_class": "aru special class",
+      "transitivity": "transitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 162)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%82%BA%E3%81%95%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "おやすみになる",
+      "kanji": "お休みになる",
+      "meaning": "honorific expression for ねる",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 162)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%88%90%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "ごらんになる",
+      "kanji": "ご覧になる",
+      "meaning": "honorific expression for みる",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 162)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%81%94%E8%A6%A7%E3%81%AB%E3%81%AA%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "おっしゃる",
+      "kanji": "仰る",
+      "meaning": "honorific expression for いう",
+      "verb_class": "aru special class",
+      "transitivity": "transitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 162)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E4%BB%B0%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "〜 いらっしゃる ",
+      "kanji": "",
+      "meaning": "honorific expression for 〜ている",
+      "verb_class": "aru special class",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 162)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "おくる",
+      "kanji": "送る",
+      "meaning": "to walk/drive (someone)",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "(person を place まで)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%80%81%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "おこる",
+      "kanji": "怒る",
+      "meaning": "to get angry",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%80%92%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "きまる",
+      "kanji": "決まる",
+      "meaning": "to be decided",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(~が)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%B1%BA%E3%81%BE%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "しりあう",
+      "kanji": "知り合う",
+      "meaning": "to get acquainted with",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(~と)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%9F%A5%E3%82%8A%E5%90%88%E3%81%86'>Jisho</a>"
+    },
+    {
+      "kana": "よぶ",
+      "kanji": "呼ぶ",
+      "meaning": "to call (one's name)",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%91%BC%E3%81%B6'>Jisho</a>"
+    },
+    {
+      "kana": "よぶ",
+      "kanji": "呼ぶ",
+      "meaning": "to invite",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "(person を event に)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%91%BC%E3%81%B6'>Jisho</a>"
+    },
+    {
+      "kana": "ひっこす",
+      "kanji": "引っ越す",
+      "meaning": "to move (to another place to live)",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(~に)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%BC%95%E3%81%A3%E8%B6%8A%E3%81%99'>Jisho</a>"
+    },
+    {
+      "kana": "よる",
+      "kanji": "寄る",
+      "meaning": "",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(place に)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%AF%84%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "おくれる",
+      "kanji": "遅れる",
+      "meaning": "to become late",
+      "verb_class": "Ru-verb",
+      "transitivity": "intransitive",
+      "particles": "(~に)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%81%85%E3%82%8C%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "かける",
+      "kanji": "掛ける",
+      "meaning": "to sit down",
+      "verb_class": "Ru-verb",
+      "transitivity": "transitive",
+      "particles": "(seat に)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%8E%9B%E3%81%91%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "もてる",
+      "kanji": "持てる",
+      "meaning": "to be popular (in terms of romantic interest)",
+      "verb_class": "Ru-verb",
+      "transitivity": "intransitive",
+      "particles": "(people に)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%8C%81%E3%81%A6%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "はれる",
+      "kanji": "晴れる",
+      "meaning": "to become sunny",
+      "verb_class": "Ru-verb",
+      "transitivity": "intransitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%99%B4%E3%82%8C%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "ごちそうする",
+      "kanji": "ご馳走する",
+      "meaning": "to treat/invite (someone) to a meal",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(person に meal を)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%81%94%E9%A6%B3%E8%B5%B0'>Jisho</a>"
+    },
+    {
+      "kana": "えんりょする",
+      "kanji": "遠慮する",
+      "meaning": "to hold back for the time being; to refrain from",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%81%A0%E6%85%AE'>Jisho</a>"
+    },
+    {
+      "kana": "しょうたいする",
+      "kanji": "招待する",
+      "meaning": "to invite someone (to an event/a place)",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(person を event/place に)",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%8B%9B%E5%BE%85'>Jisho</a>"
+    },
+    {
+      "kana": "はなしをする",
+      "kanji": "話をする",
+      "meaning": "to have a talk",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 19 (p. 163)",
+        "chapter": "19"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E8%A9%B1%E3%82%92%E3%81%99%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "おる",
+      "kanji": "居る",
+      "meaning": "extra-modest expression for いる",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 182)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%B1%85%E3%82%8B-1'>Jisho</a>"
+    },
+    {
+      "kana": "まいる",
+      "kanji": "参る",
+      "meaning": "extra-modest expression for いく and くる",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 182)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%8F%82%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "もうす",
+      "kanji": "申す",
+      "meaning": "extra-modest expression for いう",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 182)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%94%B3%E3%81%99'>Jisho</a>"
+    },
+    {
+      "kana": "いたす",
+      "kanji": "致す",
+      "meaning": "extra-modest expression for する",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 182)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E8%87%B4%E3%81%99'>Jisho</a>"
+    },
+    {
+      "kana": "いただく",
+      "kanji": "頂く",
+      "meaning": "extra-modest expression for たべる and のむ",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%A0%82%E3%81%8F'>Jisho</a>"
+    },
+    {
+      "kana": "ござる",
+      "kanji": "御座る",
+      "meaning": "extra-modest expression for ある",
+      "verb_class": "aru special class",
+      "transitivity": "intransitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%BE%A1%E5%BA%A7%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "〜ておる",
+      "kanji": "〜て居る",
+      "meaning": "extra-modest expression for 〜ている",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%B1%85%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "〜でござる",
+      "kanji": "〜で御座る",
+      "meaning": "extra-modest expression for です",
+      "verb_class": "aru special class",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%81%A7%E5%BE%A1%E5%BA%A7%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "いただく",
+      "kanji": "頂く",
+      "meaning": "humble expression for もらう",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%A0%82%E3%81%8F'>Jisho</a>"
+    },
+    {
+      "kana": "うかがう",
+      "kanji": "伺う",
+      "meaning": "to humbly visit",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(place に)",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E4%BC%BA%E3%81%86'>Jisho</a>"
+    },
+    {
+      "kana": "うかがう",
+      "kanji": "伺う",
+      "meaning": "to humbly ask",
+      "verb_class": "U-verb",
+      "transitivity": "transitive",
+      "particles": "(person に)",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E4%BC%BA%E3%81%86'>Jisho</a>"
+    },
+    {
+      "kana": "まがる",
+      "kanji": "曲がる",
+      "meaning": "to turn (right/left)",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(corner を direction に)",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%9B%B2%E3%81%8C%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "もどる",
+      "kanji": "戻る",
+      "meaning": "to return; to come back",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(~に)",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%88%BB%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "さしあげる",
+      "kanji": "差し上げる",
+      "meaning": "humble expression for あげる",
+      "verb_class": "Ru-verb",
+      "transitivity": "transitive",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%B7%AE%E3%81%97%E4%B8%8A%E3%81%92%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "きこえる",
+      "kanji": "聞こえる",
+      "meaning": "to be audible",
+      "verb_class": "Ru-verb",
+      "transitivity": "intransitive",
+      "particles": "(~が)",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E8%81%9E%E3%81%93%E3%81%88%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "つたえる",
+      "kanji": "伝える",
+      "meaning": "to convey message",
+      "verb_class": "Ru-verb",
+      "transitivity": "transitive",
+      "particles": "(person に)",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E4%BC%9D%E3%81%88%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "またせる",
+      "kanji": "待たせる",
+      "meaning": "to keep (someone) waiting",
+      "verb_class": "Ru-verb",
+      "transitivity": "transitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%BE%85%E3%81%9F%E3%81%9B%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "つづける",
+      "kanji": "続ける",
+      "meaning": "to continue",
+      "verb_class": "Ru-verb",
+      "transitivity": "transitive",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%B6%9A%E3%81%91%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "こうかんする",
+      "kanji": "交換する",
+      "meaning": "to exchange",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(ＸとＹを)",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E4%BA%A4%E6%8F%9B'>Jisho</a>"
+    },
+    {
+      "kana": "へんぴんする",
+      "kanji": "返品する",
+      "meaning": "to return (merchandise)",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E8%BF%94%E5%93%81'>Jisho</a>"
+    },
+    {
+      "kana": "せいかつする",
+      "kanji": "生活する",
+      "meaning": "to lead a life",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 20 (p. 183)",
+        "chapter": "20"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%94%9F%E6%B4%BB'>Jisho</a>"
     }
   ]
 }
