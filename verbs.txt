@@ -2254,7 +2254,7 @@
       "kanji": "乗り遅れる",
       "meaning": "to miss (a train, bus, etc.)",
       "verb_class": "Ru-verb",
-      "transitivity": "transitive",
+      "transitivity": "intransitive",
       "particles": "(~に)",
       "chapter": {
         "display": "Chapter 16 (p. 95)",
@@ -3977,6 +3977,253 @@
         "chapter": "22"
       },
       "jisho_link": "<a href='https://jisho.org/word/%E7%BF%BB%E8%A8%B3'>Jisho</a>"
+    },
+    {
+      "kana": "あめがやむ",
+      "kanji": "雨が止む",
+      "meaning": "the rain stops",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 23 (p. 252)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%AD%A2%E3%82%80'>Jisho</a>"
+    },
+    {
+      "kana": "ちがう",
+      "kanji": "違う",
+      "meaning": "to be different; to be wrong",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(~と)",
+      "chapter": {
+        "display": "Chapter 23 (p. 252)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%81%95%E3%81%86'>Jisho</a>"
+    },
+    {
+      "kana": "なくなる",
+      "kanji": "無くなる",
+      "meaning": "to be lost; to disappear",
+      "verb_class": "U-verb",
+      "transitivity": "intransitive",
+      "particles": "(~が)",
+      "chapter": {
+        "display": "Chapter 23 (p. 252)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%84%A1%E3%81%8F%E3%81%AA%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "いなくなる",
+      "kanji": "居なくなる",
+      "meaning": "(someone) is gone; to disappear",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "(~が)",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href=''>Jisho</a>"
+    },
+    {
+      "kana": "おせわになる",
+      "kanji": "お世話になる",
+      "meaning": "to be in someone's care",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "(~に)",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%AB%E3%81%AA%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "おなかをこわす",
+      "kanji": "お腹を壊す",
+      "meaning": "to have a stomachache",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%81%8A%E3%81%AA%E3%81%8B%E3%82%92%E5%A3%8A%E3%81%99'>Jisho</a>"
+    },
+    {
+      "kana": "きにいる",
+      "kanji": "気に入る",
+      "meaning": "to find something agreeable",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "(~が/を)",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "わるぐちをいう",
+      "kanji": "悪口を言う",
+      "meaning": "to talk behind someone's back",
+      "verb_class": "U-verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%82%AA%E5%8F%A3%E3%82%92%E8%A8%80%E3%81%86'>Jisho</a>"
+    },
+    {
+      "kana": "こたえる",
+      "kanji": "答える",
+      "meaning": "to answer",
+      "verb_class": "Ru-verb",
+      "transitivity": "intransitive",
+      "particles": "(~に)",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%AD%94%E3%81%88%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "はなれる",
+      "kanji": "離れる",
+      "meaning": "(something/someone) separates; parts from",
+      "verb_class": "Ru-verb",
+      "transitivity": "intransitive",
+      "particles": "(~と)",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E9%9B%A2%E3%82%8C%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "がっかりする",
+      "kanji": "",
+      "meaning": "to be disappointed",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(~に)",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%81%8C%E3%81%A3%E3%81%8B%E3%82%8A'>Jisho</a>"
+    },
+    {
+      "kana": "がまんする",
+      "kanji": "我慢する",
+      "meaning": "to be tolerant/patient",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%88%91%E6%85%A2'>Jisho</a>"
+    },
+    {
+      "kana": "どうじょうする",
+      "kanji": "同情する",
+      "meaning": "to sympathize",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(~に)",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%90%8C%E6%83%85'>Jisho</a>"
+    },
+    {
+      "kana": "〜かおをする",
+      "kanji": "〜顔をする",
+      "meaning": "to look ... (facial expression)",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E7%82%BA%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "カンニングする",
+      "kanji": "",
+      "meaning": "to cheat in an exam",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%82%AB%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0'>Jisho</a>"
+    },
+    {
+      "kana": "チェックする",
+      "kanji": "",
+      "meaning": "to check",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(~を)",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF'>Jisho</a>"
+    },
+    {
+      "kana": "せわをする",
+      "kanji": "世話をする",
+      "meaning": "to take care of ...",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "(~の)",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E4%B8%96%E8%A9%B1%E3%82%92%E3%81%99%E3%82%8B'>Jisho</a>"
+    },
+    {
+      "kana": "ゆうしょうする",
+      "kanji": "優勝する",
+      "meaning": "to win a championship",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E5%84%AA%E5%8B%9D'>Jisho</a>"
+    },
+    {
+      "kana": "もどってくる",
+      "kanji": "戻ってくる",
+      "meaning": "(something/someone) comes back",
+      "verb_class": "Irregular verb",
+      "transitivity": "",
+      "particles": "",
+      "chapter": {
+        "display": "Chapter 23 (p. 253)",
+        "chapter": "23"
+      },
+      "jisho_link": "<a href='https://jisho.org/word/%E6%88%BB%E3%81%A3%E3%81%A6%E6%9D%A5%E3%82%8B'>Jisho</a>"
     }
   ]
 }
