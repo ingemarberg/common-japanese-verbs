@@ -3,44 +3,62 @@
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <title>Common Japanese Verbs</title>
-    <link rel="stylesheet" type="text/css" href="DataTables-1.12.1/css/jquery.dataTables.min.css"/>
-    <link rel="stylesheet" type="text/css" href="FixedHeader-3.2.4/css/fixedHeader.dataTables.min.css"/>
-    <link rel="stylesheet" type="text/css" href="Responsive-2.3.0/css/responsive.dataTables.min.css"/>
-    <script type="text/javascript" src="jQuery-3.6.0/jquery-3.6.0.min.js"></script>
-    <script type="text/javascript" src="DataTables-1.12.1/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript" src="FixedHeader-3.2.4/js/dataTables.fixedHeader.min.js"></script>
-    <script type="text/javascript" src="Responsive-2.3.0/js/dataTables.responsive.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="DataTables-1.12.1/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="FixedHeader-3.2.4/css/fixedHeader.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="Responsive-2.3.0/css/responsive.dataTables.min.css" />
+    <script src="jQuery-3.6.0/jquery-3.6.0.min.js"></script>
+    <script src="DataTables-1.12.1/js/jquery.dataTables.min.js"></script>
+    <script src="FixedHeader-3.2.4/js/dataTables.fixedHeader.min.js"></script>
+    <script src="Responsive-2.3.0/js/dataTables.responsive.min.js"></script>
+    <script src="WanaKana-5.0.2/wanakana.min.js"></script>
     <script class="init">
       $(document).ready(function() {
-        var table = $('#verbs').DataTable({
+        $('#verbs').DataTable({
           "ajax": 'verbs.json',
-          columns: [{
-            data: "kana"
-          }, {
-            data: "kanji"
-          }, {
-            data: "meaning"
-          }, {
-            data: "verb_class"
-          }, {
-            data: "transitivity"
-          }, {
-            data: "particles"
-          }, {
-            data: {
-              _: "chapter.display",
-              sort: "chapter.chapter"
+          columns: [
+            {
+              data: "kana"
+            },
+            {
+              data: "kanji"
+            },
+            {
+              data: "meaning"
+            },
+            {
+              data: "verb_class"
+            },
+            {
+              data: "transitivity"
+            },
+            {
+              data: "particles"
+            },
+            { data: {
+                _: "chapter.display",
+                sort: "chapter.chapter"
+              }
+            },
+            {
+              data: "jisho_link"
             }
-          }, {
-            data: "jisho_link"
-          }],
-          "columnDefs": [{
-            "type": "num",
-            "targets": 6
-          }],
-          responsive: true
+          ],
+          "columnDefs": [
+            {
+              "type": "num",
+              "targets": 6
+            }
+          ],
+          fixedHeader: true,
+          "order": [[6, 'asc']],
+          responsive: true,
+          scrollX: true,
+          "initComplete": function() {
+            document.getElementById('verbs_filter').firstChild.getElementsByTagName('input')[0].id = 'search';
+            wanakana.bind(document.getElementById('search'));
+            document.getElementById('search').focus();
+          }
         });
-        new $.fn.dataTable.FixedHeader(table);
       });
     </script>
   </head>
